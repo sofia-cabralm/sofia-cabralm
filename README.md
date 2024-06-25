@@ -28,4 +28,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=sofia-cabralm&icon=5&color=6)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/sofia-cabralm/sofia-cabralm/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
