@@ -3,9 +3,9 @@
 </h1>
 
 # 💫 About Me:
-
 💻Computer Science student - Federal University of Alfenas
 
+🔍 Exploring the universe of programming | Focused on acquiring knowledge and practical experience through personal and collaborative projects.
 
 ## 🌐 Socials:
 <div>
