@@ -28,4 +28,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=sofia-cabralm&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<div class="tenor-gif-embed" data-postid="13307268" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/tech-support-whatsapp-dev-team-facepalm-gif-13307268"></a>from <a href="https://tenor.com/search/tech+support-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="13307268" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/tech-support-whatsapp-dev-team-facepalm-gif-13307268">Tech Support Whatsapp Dev Team GIF</a>from <a href="https://tenor.com/search/tech+support-gifs">Tech Support GIFs</a></div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
