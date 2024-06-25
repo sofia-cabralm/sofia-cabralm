@@ -28,4 +28,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=sofia-cabralm&icon=5&color=6)](https://visitcount.itsvg.in)
 
+![](https://github.com/sofia-cabralm/sofia-cabralm/assets/148342015/0014dbfa-a89c-48b9-9645-6f654bbeb3ba)
 
