@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 <div>
 <a href="https://github.com/sofia-cabralm">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-cabralm&layout=compact&langs_count=7&theme=aura&hide"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofia-cabralm&layout=compact&langs_count=7&theme=aura"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sofia-cabralm&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
