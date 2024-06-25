@@ -16,7 +16,3 @@ Computer Science student - Federal University of Alfenas
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 [![](https://visitcount.itsvg.in/api?id=sofia-cabralm&icon=5&color=6)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/sofia-cabralm/sofia-cabralm/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=sofia-cabralm&repo=sofia-cabralm&theme=react)](https://github.com/sofia-cabralm/sofia-cabralm)
