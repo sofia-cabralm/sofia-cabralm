@@ -1,7 +1,3 @@
-<h1 align="center" style="color: purple;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=A020F0&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+Welcome+to+my+GitHub+profile.;My+name+is+Sofia+Cabral+Marcelino." />
-</h1>
-
 # 💫 About Me:
 💻Computer Science student - Federal University of Alfenas
 
